@@ -6,7 +6,7 @@ Pentru rularea microserviciului pasii sunt:
 - cd microservice
 - npm install
 - npm run start
-- 
+
 Acum sunt expuse endpoint-urile pe localhost:3000. Cele simple de CRUD:
 GET: /projects - aduce datele despre toate proiectele
 GET: /projects/:id - aduce datele despre proiectul cu id dat ca parametru
